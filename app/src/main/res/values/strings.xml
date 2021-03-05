@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppStateObserver</string>
+    <string name="welcome_to_app_state_observer">Welcome to app state observer!</string>
+    <string name="activity_a">Activity A</string>
+    <string name="activity_b">Activity B</string>
+    <string name="get_current_state">Get Current State</string>
+    <string name="click_get_current_state">Click get current state!</string>
+    <string name="close_activity">Close Activity</string>
+</resources>
